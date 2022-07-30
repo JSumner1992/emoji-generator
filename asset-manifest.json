@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emoji-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/emoji-generator/static/js/main.cb502929.js",
+    "index.html": "/emoji-generator/index.html",
+    "main.e6c13ad2.css.map": "/emoji-generator/static/css/main.e6c13ad2.css.map",
+    "main.cb502929.js.map": "/emoji-generator/static/js/main.cb502929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cb502929.js"
+  ]
+}
